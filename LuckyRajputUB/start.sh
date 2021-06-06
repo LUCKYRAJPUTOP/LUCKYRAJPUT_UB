@@ -1,5 +1,5 @@
 #!/bin/bash
-#   Copyright (C) 2021 SkyhawkNetwork
+#   Copyright (C) 2021 LuckyRajputNetwork
 #
 #   Poject VΛDΣЯ is free software: 
 #   you can redistribute it and/or modify it under the terms of the GNU General Public License 
@@ -25,7 +25,7 @@ echo """
 ┈┈╰┓┏━━┓┏╯
 ┈┈┈╰╯┈┈╰╯
 
-MY SkyhawkBOT!!
+MY LuckyRajputUserbot!!
 
 """
 
