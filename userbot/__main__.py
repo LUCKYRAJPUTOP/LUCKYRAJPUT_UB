@@ -7,7 +7,7 @@ from telethon import TelegramClient
 from var import Var
 from userbot.Config import Config
 from userbot.utils import load_module
-from userbot import LOAD_PLUG, LOGS, Skyhawkversion
+from userbot import LOAD_PLUG, LOGS, LuckyRajputversion
 from pathlib import Path
 import asyncio
 import telethon.utils
@@ -52,10 +52,10 @@ for name in files:
 
 import userbot._core
 
-print(f"""SkyhawkBot IS ON!!! SkyhawkBot VERSION :- {Skyhawkversion}
+print(f"""LuckyRajputBot IS ON!!! LuckyRajputBot VERSION :- {LuckyRajputversion}
 JOIN OFFICIAL CHAT GROUP AND UPDATES CHANNEL
-OFFICIAL GROUP :- @SkyHawkSupport
-OFFICIAL CHANNEL :- @SkyHawK_Updates
+OFFICIAL GROUP :- @LuckyRajputSupport
+OFFICIAL CHANNEL :- @LuckyRajputUpdates
 DO .alive OR .ping CHECK IF I'M ON!
 IF YOU FACE ANY ISSUE THEN ASK AT CHAT GROUP.""")
 
